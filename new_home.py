@@ -3,3 +3,4 @@ b=456
 c =45
 sum =a+b+c
 mult= a*b*c
+s = sum + mult
